@@ -7,9 +7,13 @@ import {
   UnpluggedActivity,
 } from '../types/waterCycle';
 
-export const HERO_IMAGE = '/src/assets/images/hero_water_cycle_landscape_1793818416824.jpg';
-export const CLOUD_RAIN_IMAGE = '/src/assets/images/cloud_condensation_rain_1793818417510.jpg';
-export const AQUIFER_IMAGE = '/src/assets/images/groundwater_aquifer_infiltration_1793818418550.jpg';
+import heroImage from '../assets/images/hero_water_cycle_landscape_1793818416824.jpg';
+import cloudRainImage from '../assets/images/cloud_condensation_rain_1793818417510.jpg';
+import aquiferImage from '../assets/images/groundwater_aquifer_infiltration_1793818418550.jpg';
+
+export const HERO_IMAGE = heroImage;
+export const CLOUD_RAIN_IMAGE = cloudRainImage;
+export const AQUIFER_IMAGE = aquiferImage;
 
 export const CYCLE_STAGES: CycleStage[] = [
   {
