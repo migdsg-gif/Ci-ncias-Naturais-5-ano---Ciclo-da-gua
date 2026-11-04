@@ -1,0 +1,6 @@
+{
+  "name": "O Ciclo da Água - Ciências Naturais 5.º Ano",
+  "description": "Plataforma interativa para o 5.º ano com conteúdos curriculares das Aprendizagens Essenciais em Portugal, jogos didáticos (correspondência, verdadeiro/falso, escolha múltipla, virar cartas), atividades práticas de sala de aula sem tecnologia e cronómetro de aula de 45 minutos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
